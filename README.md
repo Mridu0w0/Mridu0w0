@@ -6,27 +6,28 @@
 <!-- Typing animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%F0%9F%8C%9F;Always+learning+new+things+%F0%9F%93%9A;Building+cool+stuff+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<br/>
-
-<!-- Profile views & followers badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=Mridu0w0&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/Mridu0w0?label=Followers&style=for-the-badge&color=blueviolet)](https://github.com/Mridu0w0)
 
 </div>
 
 ---
 
-## 🌸 About Me
+┌──(mridu㉿github)-[~]
+└─$ cat about_me.txt
 
-```yaml
-name: Mridu
-location: 🇧🇩 Bangladesh
-currently_learning: ["something amazing", "new tech", "open source"]
-hobbies: ["coding", "exploring", "building projects"]
-fun_fact: "I turn ☕ into code!"
-```
+  Name       : Jannatul Ferdous Mridu
+  Learning   : Something amazing & new tech
+  Hobbies    : Coding · Exploring · Building
+  Fun Fact   : I turn ☕ into code!
 
----
+┌──(mridu㉿github)-[~]
+└─$ whoami
+  > A developer who loves building cool stuff 🚀
+
+┌──(mridu㉿github)-[~]
+└─$ status --current
+  > 🟢 Open to collaborations
+  > 📖 Always learning
+  > ⚡ Building in public
 
 ## 🛠️ Tech Stack
 
@@ -35,7 +36,6 @@ fun_fact: "I turn ☕ into code!"
 <!-- Languages -->
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
