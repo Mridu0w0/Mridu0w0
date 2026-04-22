@@ -13,9 +13,9 @@
 <div align="center">
 ## 👩🏻‍💻 About Me
 
-* 🔭 I’m working on **MERN stack projects**
-* ✨ Love solving problems and building real-world apps
-* 📝 Exploring new technologies and improving daily
+ 🔭 I’m working on **MERN stack projects** 🔭
+ ✨ Love solving problems and building real-world apps ✨
+ 📝 Exploring new technologies and improving daily 📝
 </div>
 
 ---
