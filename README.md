@@ -35,7 +35,7 @@
 
 </div>
 
-> 🕯️ **Don't use all the badges above** — keep only the tools/languages you actually know! Delete the rest.
+> 
 
 ---
 
