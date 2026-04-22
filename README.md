@@ -10,7 +10,7 @@
 </div>
 
 ---
-<h1 align="center">👩🏻‍💻 About Me</h1>
+<h2 align="center">👩🏻‍💻 About Me</h2>
 
 <div align="center">
 
@@ -23,7 +23,7 @@
 
 ---
 
-## 🦋 Tech Stack
+<h2 align="center">🦋 Tech Stack </h2>
 <div align="center">
 
 
@@ -53,7 +53,7 @@
 
 ---
 
-## 👩🏻‍💻 GitHub Stats
+<h2 align-"center"> 👩🏻‍💻 GitHub Stats </h2> 
 
 <div align="center">
   <a href="https://git.io/streak-stats">
@@ -64,7 +64,7 @@
 ---
 
 
-## ☎️ Connect With Me
+<h2>☎️ Connect With Me</h2>
 
 <div align="center" >
 
