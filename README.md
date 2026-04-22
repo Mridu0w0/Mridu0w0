@@ -11,23 +11,7 @@
 
 ---
 
-┌──(mridu㉿github)-[~]
-└─$ cat about_me.txt
 
-  Name       : Jannatul Ferdous Mridu
-  Learning   : Something amazing & new tech
-  Hobbies    : Coding · Exploring · Building
-  Fun Fact   : I turn ☕ into code!
-
-┌──(mridu㉿github)-[~]
-└─$ whoami
-  > A developer who loves building cool stuff 🚀
-
-┌──(mridu㉿github)-[~]
-└─$ status --current
-  > 🟢 Open to collaborations
-  > 📖 Always learning
-  > ⚡ Building in public
 
 ## 🛠️ Tech Stack
 
