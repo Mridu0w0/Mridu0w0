@@ -53,7 +53,7 @@
 
 ---
 
-<h2 align-"center"> 👩🏻‍💻 GitHub Stats </h2> 
+<h2 align="center"> 👩🏻‍💻 GitHub Stats </h2> 
 
 <div align="center">
   <a href="https://git.io/streak-stats">
@@ -64,7 +64,7 @@
 ---
 
 
-<h2>☎️ Connect With Me</h2>
+<h2 align="center">☎️ Connect With Me</h2>
 
 <div align="center" >
 
