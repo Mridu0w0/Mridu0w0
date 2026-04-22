@@ -1,4 +1,4 @@
-<div">
+<div align="center">
 
 <!-- Animated header using capsule render -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20there!%20I'm%20Jannatul%20Ferdous%20Mridu%20🙋🏻‍♀️&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Welcome%20to%20my%20little%20corner%20of%20the%20internet%20💫&descAlignY=55&descSize=16)
@@ -10,15 +10,17 @@
 </div>
 
 ---
+<div align="center">
 ## 👩🏻‍💻 About Me
 
 * 🔭 I’m working on **MERN stack projects**
 * ✨ Love solving problems and building real-world apps
 * 📝 Exploring new technologies and improving daily
+</div>
 
 ---
 
-
+<div align="center">
 ## 🦋 Tech Stack
 
 ### 💻 Programming Languages
@@ -43,6 +45,7 @@
 ### 💻 OS & Hardware
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+</div>
 
 ---
 
@@ -59,7 +62,7 @@
 
 ## ☎️ Connect With Me
 
-<div >
+<div align="center" >
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jannatul-ferdous-mridu)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jannatulferdousmridu@gmail.com)
