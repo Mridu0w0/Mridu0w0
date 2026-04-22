@@ -10,8 +10,8 @@
 </div>
 
 ---
-<div align="center">
-## 👩🏻‍💻 About Me
+<h1 align="center">👩🏻‍💻 About Me</h1>
+
 <div align="center">
 
 
