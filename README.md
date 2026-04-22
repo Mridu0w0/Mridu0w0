@@ -10,11 +10,11 @@
 </div>
 
 ---
-## 🚀 About Me
+## 👩🏻‍💻 About Me
 
 * 🔭 I’m working on **MERN stack projects**
-* ⚡ Love solving problems and building real-world apps
-* 📚 Exploring new technologies and improving daily
+* ✨ Love solving problems and building real-world apps
+* 📝 Exploring new technologies and improving daily
 
 ---
 
