@@ -10,8 +10,9 @@
 </div>
 
 ---
-<div align="center">
 ## 👩🏻‍💻 About Me
+<div align="center">
+
 
  🔭 I’m working on **MERN stack projects** 🔭 <br>
  ✨ Love solving problems and building real-world apps ✨<br>
@@ -20,8 +21,9 @@
 
 ---
 
-<div align="center">
 ## 🦋 Tech Stack
+<div align="center">
+
 
 ### 💻 Programming Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
