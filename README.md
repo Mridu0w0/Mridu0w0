@@ -11,7 +11,7 @@
 
 ---
 
-
+[![](https://github-readme-stats.vercel.app/api?username=Mridu0w0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true)](https://github.com/Mridu0w0)
 
 ## 🦋 Tech Stack
 
