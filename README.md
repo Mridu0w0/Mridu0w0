@@ -36,6 +36,9 @@
 
 ### 🤖 AI / ML
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/gemini-%238E75B2.svg?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Cloud AI](https://img.shields.io/badge/cloud_ai-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Copilot](https://img.shields.io/badge/copilot-%23000000.svg?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
 ### 💻 OS & Hardware
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
