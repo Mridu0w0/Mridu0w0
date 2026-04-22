@@ -13,8 +13,8 @@
 <div align="center">
 ## 👩🏻‍💻 About Me
 
- 🔭 I’m working on **MERN stack projects** 🔭
- ✨ Love solving problems and building real-world apps ✨
+ 🔭 I’m working on **MERN stack projects** 🔭 <br>
+ ✨ Love solving problems and building real-world apps ✨<br>
  📝 Exploring new technologies and improving daily 📝
 </div>
 
