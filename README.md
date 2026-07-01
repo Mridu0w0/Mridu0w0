@@ -51,7 +51,7 @@
 ### 🤖 AI / ML
 
 ![Gemini](https://img.shields.io/badge/gemini-%238E75B2.svg?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Cloud AI](https://img.shields.io/badge/cloud_ai-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Claude AI](https://img.shields.io/badge/Claude%20AI-%23D97756.svg?style=for-the-badge&logo=claude&logoColor=white)
 ![Copilot](https://img.shields.io/badge/copilot-%23000000.svg?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![NotebookLM](https://img.shields.io/badge/NotebookLM-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
